@@ -1,4 +1,5 @@
 package pe.edu.upeu.util;
+
 import java.net.URL;
 import javax.swing.table.TableModel;
 public class UtilsX {
@@ -83,5 +84,15 @@ public class UtilsX {
         }
         
     }
+
+	/*
+	    pintarLine('H', 28);
+        pintarTextHeadBody('H', 3, "Nombre,Apellidos,dni,celular");
+        System.out.println("");
+        pintarLine('H', 28);
+        pintarTextHeadBody('B', 3, "David,M,43631917,951782520");
+	*/	
+
+
 
 }

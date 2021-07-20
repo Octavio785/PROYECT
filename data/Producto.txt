@@ -1,0 +1,5 @@
+P1	Pigglet	unidad	C1	7.0	0.04	45.0
+P2	Tigger	unidad	C1	15.5	0.05	15.0
+P3	Igor	unidad	C1	20.0	0.08	30.0
+P4	Winnie Pooh	unidad	C1	10.0	0.02	20
+P5	conejo	unidad	C1	56.0	0.008	268.0

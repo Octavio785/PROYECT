@@ -1,5 +1,8 @@
 package pe.edu.upeu.modelo;
 
+/**
+ * CategoriaTO
+ */
 public class CategoriaTO {
 
 public String idCateg,	nombre;

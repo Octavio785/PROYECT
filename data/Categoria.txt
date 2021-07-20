@@ -1,3 +1,4 @@
 C1	peluches
 C2	llaveros
 C3	almohadas
+C4	mantas
